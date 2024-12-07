@@ -64,5 +64,5 @@
 - 使用介面設計模式，支持儲存服務的彈性替換（如從本地儲存改為雲端儲存服務）。
 
 ## 相關文件
-更多體驗內容可參考：[Corsur 體驗過程](https://docs.google.com/document/d/1_mENRUi27O8H1M7e0-BPz2sUJqrwINZYnxZInzPksbw/edit?usp=sharing)
+更多體驗內容可參考：[Cursor 體驗過程](https://docs.google.com/document/d/1_mENRUi27O8H1M7e0-BPz2sUJqrwINZYnxZInzPksbw/edit?usp=sharing)
 
