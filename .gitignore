@@ -1,0 +1,71 @@
+# .NET Core 建置輸出
+bin/
+obj/
+out/
+
+# Visual Studio 檔案
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio Code 檔案
+.vscode/
+*.code-workspace
+
+# 專案特定檔案
+appsettings.Development.json
+appsettings.Production.json
+*.Development.json
+*.Production.json
+
+# 本地儲存的檔案
+Storage/
+
+# IDE 和編輯器檔案
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.iml
+.idea/
+*.swp
+*.swo
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 套件管理器
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# 記錄檔
+*.log
+logs/
+
+# 環境檔案
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 資料庫檔案
+*.mdf
+*.ldf
+*.ndf
+
+# 測試結果
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# 發佈檔案
+**/publish/
+**/published/
+
+# Docker
+.docker/ 
